@@ -13,7 +13,7 @@ The interesting thing is that this is also like a museum where you can see how I
 
 - I have completed [CS50 Harvard Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
--🌱 I’m currently working on a Coocking social media!!
+- :cookie: I’m currently working on a Coocking social media!!
 
 - 🌱 I’m currently learning **Introduction to Algorithms by Thomas H., Charles E. ,RONALD L. , Clifford S.**
 
