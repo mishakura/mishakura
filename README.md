@@ -11,7 +11,7 @@ Here you will find all the projects that I have done in my courses. As well as s
 The interesting thing is that this is also like a museum where you can see how I have been improving over time in my skills as a software developer
 </h3>
 
-- I have completed [CS50 Harvard Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- :mortar_board:I have completed [CS50 Harvard Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 - :cookie: I’m currently working on a Coocking social media!!
 
