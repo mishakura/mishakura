@@ -4,7 +4,7 @@
 ![654477 (1)](https://user-images.githubusercontent.com/88253574/140828597-0db705bc-f694-4a16-a6c7-4690a2fa7df8.png)
 
 
-Good morning, evening or afternoon depending on where you are reading my presentation.
+Good morning, evening or afternoon depending on when you are reading my presentation.
 My name is Theo Michael Sojo and I am a Managment Information Systems student at UBA in Argentina.
 I have a huge passion for programming, world-changing software development, technology innovation, and finance.
 Here you will find all the projects that I have done in my courses. As well as some personal projects.
