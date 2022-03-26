@@ -5,21 +5,12 @@
 
 
 Good morning, evening or afternoon depending on when you are reading my presentation.
-My name is Theo Michael Sojo and I am a Managment Information Systems student at UBA in Argentina.
+My name is Theo Michael Sojo and I am a Computer Science student at UBA in Argentina.
 I have a huge passion for programming, world-changing software development, technology innovation, and finance.
 Here you will find all the projects that I have done in my courses. As well as some personal projects.
 The interesting thing is that this is also like a museum where you can see how I have been improving over time in my skills as a software developer
 </h3>
 
-- :mortar_board:I have completed [CS50 Harvard Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-
-- :cookie: I’m currently working on a Coocking social media!!
-
-- 🌱 I’m currently learning **Introduction to Algorithms by Thomas H., Charles E. ,RONALD L. , Clifford S.**
-
-- 🌱 I’m currently learning [Machine Learning Stanford](https://www.coursera.org/learn/machine-learning?page=3)
-
-- 🌱 I’m currently learning [Data Science IBM](https://www.coursera.org/professional-certificates/ibm-data-science?page=3)
 
 - 📫 How to reach me **michaelsojo22@gmail.com**
 
