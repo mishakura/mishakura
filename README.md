@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- BANNER IMAGE: Arrastrá tu foto acá en el editor de GitHub para que se genere el link automático -->
-<!-- Ejemp![IMG_5366](https://github.com/user-attachments/assets/1f8ca846-50e9-468b-9ffb-f24a91614e3d)
-lo: <img src="URL_DE_TU_IMAGEN" width="100%" alt="banner" /> -->
+![IMG_5366](https://github.com/user-attachments/assets/af247354-e4a6-4f36-a9f5-29349497cfee)
+
 
 # Theo Sojo
 
