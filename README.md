@@ -1,25 +1,77 @@
-<h1 align="center">Hi 👋, I'm Theo Michael Sojo</h1>
-<h3 align="center">
+<div align="center">
 
-![654477 (1)](https://user-images.githubusercontent.com/88253574/140828597-0db705bc-f694-4a16-a6c7-4690a2fa7df8.png)
+<!-- BANNER IMAGE: Arrastrá tu foto acá en el editor de GitHub para que se genere el link automático -->
+<!-- Ejemp![IMG_5366](https://github.com/user-attachments/assets/1f8ca846-50e9-468b-9ffb-f24a91614e3d)
+lo: <img src="URL_DE_TU_IMAGEN" width="100%" alt="banner" /> -->
 
+# Theo Sojo
 
-Portfolio Manager and Head of Research at Sailing Inversiones, responsible for:
-(i) research, development, and structuring of bottom-up systematic trading strategies across multiple asset classes, including commodities and equities;
-(ii) top-down portfolio construction that integrates a range of systematic strategies; and
-(iii) quantitative research in the field of cross-asset alternative risk premia investing.
+**Portfolio Manager & Head of Research**
 
-Works closely with clients and commercial teams to develop customized investment solutions, grounded in rigorous research and tailored to each investor’s specific objectives.
+[![Sailing Inversiones](https://img.shields.io/badge/Sailing_Inversiones-0D1B2A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDEzaDJMNiA5bDMgNiAzLTkgMyA5IDEtNGgyIi8+PC9zdmc+&logoColor=white)](https://sailinginversiones.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-sojo-04892b225/?locale=en-US)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsojo@sailinginversiones.com)
 
-- 📫 How to reach me **tsojo@sailinginversiones.com*
-- ⚡ Fun fact **I love mountaineering**
+</div>
 
+---
 
+### 🧭 About
 
+Portfolio Manager and Head of Research at **Sailing Inversiones**, focused on building and managing systematic investment strategies with a quantitative edge.
 
+```
+Research & Strategy    █████████████████████████   Systematic Trading
+Portfolio Construction ██████████████████████░░░   Multi-Asset
+Client Solutions       ████████████████░░░░░░░░░   Tailored Mandates
+```
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/theo-sojo-04892b225/?locale=en-US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theo-michael-sojo-04892b225/" height="30" width="40" /></a>
-</p>
+### 🔬 What I Do
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h4>📊 Systematic Trading</h4>
+<p>Research, development & structuring of bottom-up systematic strategies across <b>commodities</b> and <b>equities</b></p>
+</td>
+<td width="33%" align="center">
+<h4>🏗️ Portfolio Construction</h4>
+<p>Top-down portfolio design integrating multiple systematic strategies into cohesive portfolios</p>
+</td>
+<td width="33%" align="center">
+<h4>🧪 Quant Research</h4>
+<p>Cross-asset <b>alternative risk premia</b> investing and quantitative factor research</p>
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+> *Ajustá los badges según las herramientas que realmente usás.*
+
+---
+
+### 🤝 Client-Facing
+
+Works closely with clients and commercial teams to develop **customized investment solutions**, grounded in rigorous research and tailored to each investor's specific objectives.
+
+---
+
+<div align="center">
+
+📬 **Let's connect** — [tsojo@sailinginversiones.com](mailto:tsojo@sailinginversiones.com)
+
+<sub>Buenos Aires, Argentina 🇦🇷</sub>
+
+</div>
