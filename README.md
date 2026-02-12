@@ -2,7 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/af247354-e4a6-4f36-a9f5-29349497cfee" width="400" />
 
-
 # Theo Sojo
 
 **Portfolio Manager & Head of Research**
@@ -20,8 +19,8 @@
 Portfolio Manager and Head of Research at **Sailing Inversiones**, focused on building and managing systematic investment strategies with a quantitative edge.
 
 ```
-Research & Strategy    █████████████████████████   Systematic Trading
-Portfolio Construction ██████████████████████░░░   Multi-Asset
+Research & Strategy    ██████████████████████░░░   Systematic Trading
+Portfolio Construction ██████████████████░░░░░░░   Multi-Asset
 Client Solutions       ████████████████░░░░░░░░░   Tailored Mandates
 ```
 
@@ -45,6 +44,18 @@ Client Solutions       ████████████████░░░
 </td>
 </tr>
 </table>
+
+---
+
+### 🤖 AI & Innovation
+
+Beyond quantitative finance, I lead **AI research and adoption** within the firm — exploring how the latest advances in artificial intelligence can transform investment workflows, research processes, and day-to-day operations.
+
+I design and deliver **internal training programs** to upskill teams across the organization, with a strong focus on leveraging **Claude by Anthropic** as a core tool for productivity, analysis, and decision-making.
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![AI Research](https://img.shields.io/badge/AI_Research-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1B2A?style=flat-square&logoColor=white)
 
 ---
 
