@@ -18,14 +18,6 @@
 
 Portfolio Manager and Head of Research at **Sailing Inversiones**, focused on building and managing systematic investment strategies with a quantitative edge.
 
-```
-Research & Strategy    ██████████████████████░░░   Systematic Trading
-Portfolio Construction ██████████████████░░░░░░░   Multi-Asset
-Client Solutions       ████████████████░░░░░░░░░   Tailored Mandates
-```
-
----
-
 ### 🔬 What I Do
 
 <table>
