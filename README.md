@@ -1,6 +1,6 @@
 <div align="center">
 
-![IMG_5366](https://github.com/user-attachments/assets/af247354-e4a6-4f36-a9f5-29349497cfee)
+<img src="https://github.com/user-attachments/assets/af247354-e4a6-4f36-a9f5-29349497cfee" width="400" />
 
 
 # Theo Sojo
